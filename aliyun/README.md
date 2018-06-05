@@ -13,5 +13,5 @@ visudo
 # anaconda
 # https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/
 
-
+apt-get install git mariadb-server mariadb-client redis-server
 ```
