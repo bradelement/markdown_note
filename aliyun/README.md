@@ -6,7 +6,7 @@
 # 中文支持
 apt-get install language-pack-zh-hans
 # 新增用户
-adduser aqrose
+adduser element
 # 修改默认编辑器
 update-alternatives --config editor
 visudo
